@@ -13,8 +13,8 @@
 <!-- About Me Section -->
 <div class="about-me">
     <ul>
-        <li>🔭 Currently working on <a href="https://matchbank.com">Matchbank</a></li>
-        <li>🌱 Learning <strong>Next.js, FrankenPHP</strong></li>
+        <li>🔭 Currently working on <a href="https://github.com/fikrimastor/memory-library">Memory Library</a></li>
+        <li>🌱 Learning <strong>Typescript, Vue Js</strong></li>
         <li>📝 Writing articles on <a href="https://www.fikrimastor.com">fikrimastor.com</a></li>
         <li>💬 Expertise in <strong>Laravel, PHP, TALL stack</strong></li>
         <li>📫 Contact: <a href="mailto:hello@fikrimastor.com">hello@fikrimastor.com</a></li>
