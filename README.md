@@ -124,8 +124,8 @@ See all projects on [fikrimastor.com](https://fikrimastor.com).
 
 ## Certifications
 
-- **AWS Certified Solutions Architect Associate**, Amazon Web Services
-- **Laravel Bootcamp Certificate**, Taming Tech
+- **AWS Certified Solutions Architect Associate**, Amazon Web Services ([verify](https://www.credly.com/badges/f06190b3-dabd-4150-8c67-f69a0f6ebd0a/public_url))
+- **Laravel Bootcamp Certificate**, Taming Tech ([verify](https://certs.tamingtech.my/c/Z9QEZ116JJ4SAUJHAKFJ))
 
 ## Education
 
